@@ -6,7 +6,7 @@ import asyncio
 """
 Задание выполнялось на:
 Phiton 3.9
-aiogram 3.25
+aiogram 2.25
 """
 
 user_token = input('Введите ваш токен: ')
